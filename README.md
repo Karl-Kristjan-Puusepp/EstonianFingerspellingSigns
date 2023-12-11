@@ -8,6 +8,13 @@ This project was created for the "Introduction to Data Science" course at Univer
     <figcaption>Estonian fingerspelling signs (Eesti Keele Instituut).</figcaption>
 </figure>
 
+<figure>
+    <img src="./Estonian_Fingerspelling-poster-final-1.png"
+         alt="Poster"
+         width="400">
+    <figcaption>Poster created for the presentation.</figcaption>
+</figure>
+
 ## Dataset
 The `data` folder contains a dataset of Estonian sign language fingerspelling signs for the 32 letters in the Estonian alphabet.
 Each label is accompanied by over 200 images from 8 different individuals (4 men and 4 women in an age range of 18-21). 
