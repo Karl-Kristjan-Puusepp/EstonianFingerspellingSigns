@@ -1,5 +1,6 @@
 # Estonian Fingerspelling Recognition Model and Dataset
-This project was created for the Introduction to Data Science course and aims to train a model to recognize [Estonian fingerspelling signs](https://www.eki.ee/dict/viipekeel/viiped/eesti_sormendid.png).
+This project was created for the Introduction to Data Science course and aims to train a model to recognize Estonian fingerspelling signs. 
+![Estonian fingerspelling signs](https://www.eki.ee/dict/viipekeel/viiped/eesti_sormendid.png)
 
 ## Dataset
 The `data` folder contains a dataset of Estonian sign language fingerspelling signs for the 32 letters in the Estonian alphabet.
