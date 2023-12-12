@@ -1,7 +1,7 @@
 # Estonian Fingerspelling Recognition Model and Dataset
 This project was created for the "Introduction to Data Science" course at University of Tartu and aims to train a model to recognize Estonian fingerspelling signs. 
 <figure>    
-    <img src="./Estonian_Fingerspelling-poster-final-1.png"
+    <img src="./assets/Estonian_Fingerspelling-poster-final-1.png"
         alt="Poster"
         width="69%">
     <figcaption>Poster created for the presentation.</figcaption>
